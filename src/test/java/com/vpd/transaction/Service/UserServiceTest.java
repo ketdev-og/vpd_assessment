@@ -157,7 +157,7 @@ public class UserServiceTest {
 
     }
 
-    @DisplayName("increment on account balance")
+    @DisplayName("decrement on account balance")
     @Test
     public void whenAccountDebited_accountBalance_shouldIncrease() {
         given(userRepo.findByEmail(principal.getName())).willReturn(user);
