@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T17:06:02.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="omgnYb0iqCeiBPzfOx6r" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T17:18:12.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kEY3heB7hMKSkUFs5Zsb" version="23.0.2" type="github">
   <diagram name="Page-1" id="qCpui8MbFrmxUPi5_UJt">
-    <mxGraphModel dx="121560" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120000" pageHeight="190000" math="0" shadow="0">
+    <mxGraphModel dx="121976" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120000" pageHeight="190000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,11 +8,11 @@
           <mxGeometry x="254" y="1540" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MCNZE9MaeuVUN_I9v1jl-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1820" width="50" height="80" as="geometry" />
+          <mxGeometry x="-13" y="1820" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MCNZE9MaeuVUN_I9v1jl-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="1866" as="sourcePoint" />
+            <mxPoint x="40" y="1866" as="sourcePoint" />
             <mxPoint x="590" y="1866" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -288,6 +288,21 @@
         </mxCell>
         <mxCell id="MCNZE9MaeuVUN_I9v1jl-90" value="FAILED" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-18" y="2437" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-91" value="&lt;font size=&quot;1&quot;&gt;process all failed&lt;br&gt;message&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="2227.5" width="80" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180.53" y="2400" as="sourcePoint" />
+            <mxPoint x="-180.53" y="2300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-93" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="2258.97" as="sourcePoint" />
+            <mxPoint x="120" y="2259" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
