@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T16:35:54.475Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lpr7_l1UMyfxm5yKL5t0" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T17:06:02.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="omgnYb0iqCeiBPzfOx6r" version="23.0.2" type="github">
   <diagram name="Page-1" id="qCpui8MbFrmxUPi5_UJt">
-    <mxGraphModel dx="122280" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120000" pageHeight="190000" math="0" shadow="0">
+    <mxGraphModel dx="121560" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120000" pageHeight="190000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MCNZE9MaeuVUN_I9v1jl-58" value="UPDATE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="495" y="2054" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="2054" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MCNZE9MaeuVUN_I9v1jl-61" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -245,7 +245,49 @@
           <mxGeometry x="90" y="2128" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MCNZE9MaeuVUN_I9v1jl-73" value="VAS MONGO" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="236" y="2600" width="120" height="80" as="geometry" />
+          <mxGeometry x="135.5" y="2215" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="956" y="2603" as="sourcePoint" />
+            <mxPoint x="250" y="2603" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-81" value="UPDATE VALIDATION SERVICE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-82" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960.97" y="2530" as="sourcePoint" />
+            <mxPoint x="960.97" y="2610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.96999999999997" y="2552" as="sourcePoint" />
+            <mxPoint x="185" y="2300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-83" value="MESSAGE" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="144.5" y="2430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-86" value="VAS -Notification" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2560" width="111" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-87" value="PRODUCER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="2570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="2470" as="sourcePoint" />
+            <mxPoint x="-120" y="2470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-89" value="VAS DEAD LETTER QUEUE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="2413.5" width="120" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="MCNZE9MaeuVUN_I9v1jl-90" value="FAILED" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="2437" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
